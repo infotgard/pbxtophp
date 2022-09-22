@@ -6,8 +6,3 @@ parse it to show the Names and Extensions of the contacts in the phonelist. This
 show a realtime phonebook for company employees.
 
 You can run this script automatically using windows task scheduller in order to maintain a fresh phonebook all the time.
-
-Tools used:
-
-Powershell
-PHP
